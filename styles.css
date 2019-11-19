@@ -1,0 +1,49 @@
+html{
+    background-color: #f7f8f9;
+}
+
+@media (min-width: 1281px) {
+  
+    
+    .navbar-nav{
+        margin-left: 1050px;
+        font-size: 3vh;
+      }
+      
+      .nav-link{
+          margin-left: 70px;
+      }
+    
+  }
+
+
+  header {
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+    
+}
+
+
+
+#intro{
+    position: relative;
+     
+    }
+ 
+    #intro .overlay {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: white;
+      z-index: 1; 
+    
+    }
+
+
+ 
+
+  
